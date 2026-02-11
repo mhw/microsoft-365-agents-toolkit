@@ -44,7 +44,7 @@
       "step_94ba6505"
     ],
     "tags": [],
-    "updated_at": "2026-02-11T06:28:26.954681"
+    "updated_at": "2026-02-11T07:47:05.323662"
   },
   "steps": [
     {
@@ -154,7 +154,9 @@
         "dhash:180:718:0:10:243cb08e869681a1"
       ],
       "postconditions": [],
-      "tags": [],
+      "tags": [
+        "delay: 60"
+      ],
       "screenshot": "step_f2d90833",
       "created_at": "2026-02-11T06:27:59.742295",
       "plan_id": "plan_993b7f9e"
